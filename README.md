@@ -60,8 +60,3 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ```
-
-## Author
-
-- E-mail : winp2807@gmail.com
-- LinkedIn : <a href="https://www.linkedin.com/in/erwin-perdana28"> Erwin Perdana</a>
