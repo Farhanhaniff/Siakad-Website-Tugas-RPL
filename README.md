@@ -16,11 +16,11 @@
 ## Default Account for testing
 
 Admin Default Account
-username:erwin@gmail.com
+username:farhan@gmail.com
 password:11111111
 
 Mahasiswa Default Account
-username:16220320
+username:14522673
 password:11111111
 
 Dosen Default Account
