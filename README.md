@@ -32,7 +32,7 @@ password:11111111
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/erwin-perdana/sistem-informasi-akademik-kampus-laravel.git
+git clone https://github.com/Farhanhaniff/Siakad-Website-Tugas-RPL
 go to folder
 composer install
 npm install
