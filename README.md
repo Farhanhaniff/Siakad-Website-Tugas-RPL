@@ -20,12 +20,12 @@ username:farhan@gmail.com
 password:11111111
 
 Mahasiswa Default Account
-username:14522673
-password:11111111
+username:123456
+password:123456
 
 Dosen Default Account
-username:1102110
-password:11111111
+username:1102220
+password:Admin123
 
 ## How to Install
 
