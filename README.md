@@ -9,10 +9,6 @@
 - Nilai
 - KHS Mahasiswa
 
-## Release Date
-
-10 Juli 2025
-
 ## Default Account for testing
 
 Admin Default Account
